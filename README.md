@@ -24,3 +24,7 @@ Just replace the files in the wavs directory with the sound files with say the p
 We loved the original Half-Life 1998 game and thought it would be great to hear the HEV speak the time every hour at home. The sounds were freely available on the game disk and online. From the last google search (136 million results found) you can find all the sound files anywhere online.
 
 To Valve, please don't send us any nasty-grams. We made this for the love of the game!
+
+# Legal and Licensing
+You are free to copy, distribute and transmit the works on Calomel.org. If you copy or quote an article from Calomel.org please feel free to add a reference link back to the page you quote from. Reference links will help readers and search bots make their way back to our site which will help increase the site's visibility. All works at Calomel.org are ensconced with the common form MIT License.
+
