@@ -3,7 +3,8 @@
 use strict;
 
 # Define the base directory for audio files
-my $base = "/home/jona/Documents/Scripts/half_life_talking_clock/wavs";
+## change to your /wavs directory
+my $base = "/home/jona/wavs";
 
 
 
