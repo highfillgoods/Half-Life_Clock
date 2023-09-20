@@ -1,9 +1,9 @@
-# Half-Life_Clock original source modified from
+# Half-Life_Clock original source modified
 ## https://calomel.org/half_life_talking_clock.html
 Half-Life 1 Talking Clock
 
-The original script worked great for 12 hour time.
-This modified script is able to play hours 21-23 using 24 hour time format.
+Modified version from calomel.org 
+This updated script is not able to play hours 21-23 using 24 hour time format.
 
 
 # How do I setup the talking clock ?
