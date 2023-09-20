@@ -9,7 +9,6 @@ my $base = "/home/jona/wavs";
 
 
 ## collect the system time using the date binary
-
  ## 12 hour time 
   #my $hour=`date +%I`; chop($hour);
  ## 24 hour time 
